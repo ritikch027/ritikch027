@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm working on Android development using react native<br>I learnt web development <br>Beginner at backend <br>Intermediate at frontend<br>
+👋 Hi, I’m a Developer in Progress
+I’m currently learning application development with React Native, building toward creating real-world mobile apps.
+I have a solid foundation in web development, with intermediate frontend skills, and I’m actively improving my backend knowledge.
+💡 What I’m focused on:
+* React Native & mobile app development
+* Strengthening frontend skills (UI, state management, performance)
+* Learning backend fundamentals and APIs
+* Building projects and learning by doing
+  <br>
+🚀 Goal: Become a well-rounded full-stack developer who can build and ship complete applications.
 
 
 ## 🌐 Socials:
