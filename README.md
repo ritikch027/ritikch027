@@ -52,7 +52,7 @@ JavaScript • Java • Python • SQL • Markdown
 
 ## 🌐 Connect With Me
 
-* LinkedIn: [https://www.linkedin.com/in/ritik-chauhan-433999247](https://www.linkedin.com/in/ritik-chauhan-433999247)
+* LinkedIn: [https://www.linkedin.com/in/ritik-chauhan-433999247](https://www.linkedin.com/in/ritikch027)
 * Instagram: [https://instagram.com/Ritik_chauhan0](https://instagram.com/Ritik_chauhan0)_
 * Email: [ritikchauhan5446@gmail.com](mailto:ritikchauhan5446@gmail.com)
 
