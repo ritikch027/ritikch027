@@ -1,61 +1,92 @@
 # 👋 Hi, I'm Ritik
 
-### Aspiring Full‑Stack Developer • React Native Focus
+💻 **Full-Stack Developer | MERN Stack | React Native**
 
-I’m a developer in progress building real‑world applications while strengthening both frontend and backend fundamentals. My main focus right now is mobile app development using React Native, while continuing to grow as a complete full‑stack engineer.
+I’m a Computer Science undergraduate at **JSS Academy of Technical Education, Noida**, passionate about building **real-world web and mobile applications**.
 
----
+My primary focus is **React Native and the MERN stack**, where I design and build scalable applications with clean architecture, secure APIs, and modern UI.
 
-## 🚀 Current Focus
-
-* 📱 React Native & mobile application architecture
-* 🎨 Frontend quality (UI, state management, performance)
-* 🔌 Backend fundamentals & API design
-* 🧠 Learning by building real projects
-
-**Goal:** Become a developer who can design, build, and ship complete production‑ready applications independently.
+Currently improving my **Data Structures & Algorithms, backend architecture, and system design** while continuing to build production-style projects.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Featured Projects
+
+### 🍔 Foodingo — Food Delivery Mobile Application
+**Tech:** React Native, Node.js, Express, MongoDB, Razorpay
+
+A full-featured food delivery mobile app that allows users to browse restaurants, place orders, and make secure payments.
+
+**Key Features**
+- JWT-based user authentication
+- Restaurant menu & order management
+- Razorpay payment integration
+- Admin/restaurant dashboard
+- Clean and responsive mobile UI
+
+🔗 Repository: https://github.com/ritikch027/foodingo
+
+---
+
+### 💬 YoChat — Real-Time Chat Application
+**Tech:** React Native, Node.js, Express, MongoDB, Socket.io
+
+A real-time messaging application supporting instant communication between users.
+
+**Key Features**
+- Real-time messaging using Socket.io
+- Secure JWT authentication
+- Persistent message storage
+- Clean chat interface
+
+🔗 Repository: https://github.com/ritikch027/YoChat
+
+---
+
+# 🛠 Tech Stack
 
 ### Frontend
-
 React • React Native • Redux • Context API • TailwindCSS • Vite • React Router
 
 ### Backend
-
-Node.js • Express.js • JWT Authentication • REST APIs • Socket.io
+Node.js • Express.js • REST APIs • JWT Authentication • Socket.io
 
 ### Databases
-
 MongoDB • MySQL • SQLite • Firebase
 
 ### Tools & Platforms
-
-Git • GitHub • NPM • Expo • Vercel • Render • Prettier
+Git • GitHub • Expo • NPM • Vercel • Render • Postman • Prettier
 
 ### Languages
-
-JavaScript • Java • Python • SQL • Markdown
-
----
-
-## 📈 What I'm Working On
-
-* Building mobile apps with scalable structure
-* Improving backend logic & authentication systems
-* Writing cleaner and more maintainable code
-* Understanding performance optimization
+JavaScript • Java • Python • SQL
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Currently Working On
 
-* LinkedIn: [https://www.linkedin.com/in/ritikch027](https://www.linkedin.com/in/ritikch027)
-* Instagram: [https://instagram.com/Ritik_chauhan0_](https://instagram.com/Ritik_chauhan0_)
-* Email: [ritikchauhan5446@gmail.com](mailto:ritikchauhan5446@gmail.com)
+- Building scalable **React Native mobile applications**
+- Improving **backend architecture and API design**
+- Practicing **Data Structures & Algorithms**
+- Writing **clean, maintainable, and optimized code**
 
 ---
 
-⭐ Always open to collaboration, learning opportunities, and building useful projects.
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikch027&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikch027&layout=compact)
+
+---
+
+# 🌐 Connect With Me
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/ritikch027
+
+📧 Email  
+ritikchauhan5446@gmail.com
+
+---
+
+⭐ Always open to **collaboration, learning opportunities, and building impactful projects.**
