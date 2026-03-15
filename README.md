@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ritik
 
-💻 **Full-Stack Developer | MERN Stack | React Native**
+💻 **Full-Stack Developer | MERN Stack | React Native | DSA in Java**
 
 I’m a Computer Science undergraduate at **JSS Academy of Technical Education, Noida**, passionate about building **real-world web and mobile applications**.
 
