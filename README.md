@@ -71,14 +71,6 @@ JavaScript • Java • Python • SQL
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikch027&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikch027&layout=compact)
-
----
-
 # 🌐 Connect With Me
 
 🔗 LinkedIn  
