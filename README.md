@@ -26,7 +26,7 @@ const ritik = {
   role: "Full-Stack Developer 💻",
   education: "B.Tech CSE @ JSS Academy of Technical Education, Noida 🎓",
   primaryStack: ["React Native", "MongoDB", "Express", "React", "Node.js"],
-  languages: ["JavaScript", "Java", "Python", "SQL"],
+  languages: ["JavaScript", "Java"],
   currentlyImproving: ["DSA in Java", "Backend Architecture", "System Design"],
   philosophy: "Write clean, maintainable, optimized code ✨",
   openTo: ["Collaboration", "Learning", "Impactful projects"]
@@ -130,25 +130,22 @@ I build **real-world web and mobile applications** with scalable architecture, s
 <div align="center">
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+<br/>
+<sub>React • React Native • Next.js</sub>
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 <br/>
-<sub>REST APIs • JWT Authentication • Socket.io</sub>
+<sub>Node.js • Express.js • REST APIs</sub>
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase&theme=dark" />
+### 🗄️ Databases & BaaS
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase&theme=dark" />
 
 ### 💬 Languages
-<img src="https://skillicons.dev/icons?i=js,java,py&theme=dark" />
-
-### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,npm,expo&theme=dark" />
-
-### 🤖 AI & LLMs
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8957e5?style=for-the-badge&labelColor=0d1117)
-![Google Generative AI](https://img.shields.io/badge/Google_Generative_AI-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)
+<img src="https://skillicons.dev/icons?i=js,java&theme=dark" />
+<br/>
+<sub>JavaScript • Java (DSA)</sub>
 
 </div>
 
@@ -192,18 +189,6 @@ I build **real-world web and mobile applications** with scalable architecture, s
 | 🧮 **DSA** | Practicing Data Structures & Algorithms in Java |
 | ✨ **Code Quality** | Writing clean, maintainable, optimized code |
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<!-- Needs the snake GitHub Action — see setup note below -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikch027/ritikch027/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/ritikch027/ritikch027/output/github-contribution-grid-snake.svg" />
-</picture>
 </div>
 
 ---
