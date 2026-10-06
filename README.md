@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ritikch027&label=Profile%20Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" alt="views" />
+<img src="https://hits.sh/github.com/ritikch027.svg?style=for-the-badge&label=Profile%20Views&color=1f6feb&labelColor=0d1117" alt="views" />
 <img src="https://img.shields.io/github/followers/ritikch027?style=for-the-badge&logo=github&color=8957e5&labelColor=0d1117" alt="followers" />
 
 </div>
@@ -99,6 +99,16 @@ Gemini-style AI assistant with prompt-engineered replies, Firebase auth and mark
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ritikch027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikch027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
