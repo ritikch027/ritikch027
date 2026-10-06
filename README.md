@@ -26,7 +26,7 @@ const ritik = {
   role: "Full-Stack Developer 💻",
   education: "B.Tech CSE @ JSS Academy of Technical Education, Noida 🎓",
   primaryStack: ["React Native", "MongoDB", "Express", "React", "Node.js"],
-  languages: ["JavaScript", "Java"],
+  languages: ["Java", "Python", "JavaScript"],
   currentlyImproving: ["DSA in Java", "Backend Architecture", "System Design"],
   philosophy: "Write clean, maintainable, optimized code ✨",
   openTo: ["Collaboration", "Learning", "Impactful projects"]
@@ -143,9 +143,9 @@ I build **real-world web and mobile applications** with scalable architecture, s
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase&theme=dark" />
 
 ### 💬 Languages
-<img src="https://skillicons.dev/icons?i=js,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,py,js&theme=dark" />
 <br/>
-<sub>JavaScript • Java (DSA)</sub>
+<sub>Java (DSA) • Python • JavaScript</sub>
 
 </div>
 
